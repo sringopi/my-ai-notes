@@ -15,3 +15,8 @@ https://www.productcompass.pm/p/ai-evals
 https://github.com/langchain-ai/openevals
 
 https://www.youtube.com/watch?v=J-F30jRyhoA
+
+
+## RAGAS
+
+https://github.com/explodinggradients/ragas
