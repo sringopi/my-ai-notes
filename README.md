@@ -13,3 +13,5 @@ https://www.productcompass.pm/p/ai-evals
 
 ## Langchain-OpenEvals
 https://github.com/langchain-ai/openevals
+
+https://www.youtube.com/watch?v=J-F30jRyhoA
