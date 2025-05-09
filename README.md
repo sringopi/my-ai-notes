@@ -20,3 +20,9 @@ https://www.youtube.com/watch?v=J-F30jRyhoA
 ## RAGAS
 
 https://github.com/explodinggradients/ragas
+
+## confident-ai
+
+https://www.confident-ai.com/
+
+https://github.com/confident-ai/deepeval
