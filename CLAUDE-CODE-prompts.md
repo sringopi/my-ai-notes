@@ -8,7 +8,8 @@ Implement a web page that looks like [Image #1]. Then screenshot it with Puppete
     check with me if anything is required.
 
 
-###
+###  Migrating a website 
+```
 go to www.xyz.com and make a clone of the landing page using modern react framework.
 
 is this a static site or does it use serverside rendering
@@ -27,3 +28,5 @@ Can you check if the content details in these pages match the source website? I 
 
 Can you check the website for other similar inaccuracies or differences with the 
   source website?
+
+```
