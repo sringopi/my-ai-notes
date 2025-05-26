@@ -29,4 +29,14 @@ Can you check if the content details in these pages match the source website? I 
 Can you check the website for other similar inaccuracies or differences with the 
   source website?
 
+
+I want to keep the content under "About AMC" section in the source website  as-is, 
+  verbatim in the target.
+
+I see top menu items with "+" expanding to provide navigation to multiple pages - for 
+  example, "About+" and "Registration+".  Can you ensure that these pages and content 
+  are implemented.  think about it, plan and implement.
+
+
+
 ```
