@@ -24,6 +24,9 @@ Implement a web page that looks like [Image #1]. Then screenshot it with Puppete
 
 
 ###  Migrating a website 
+
+The following causes problem ... it's generating the text content ... ideally, we want the current content to be migrated verbatim to the target.
+
 ```
 go to www.xyz.com and make a clone of the landing page using modern react framework.
 
