@@ -1,3 +1,6 @@
+## Sources
+https://www.youtube.com/watch?v=6eBSHbLKuN0
+
 
 ## Create EC2 instance
 
@@ -11,10 +14,6 @@ use the key <<keyname>>.  any subnet is ok.  assign public ip address. finally g
 
 the pem file is in ~/Downloads folder 
 ```
-
-
-## The SOURCE
-https://www.youtube.com/watch?v=6eBSHbLKuN0
 
 
 ###
