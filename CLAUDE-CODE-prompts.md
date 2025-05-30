@@ -5,14 +5,7 @@ https://www.youtube.com/watch?v=6eBSHbLKuN0
 ## Create EC2 instance
 
 ```
-create an ec2 instance in us-west-region.  instance type t3 small.  ubuntu.  create a suitable security group which  │
-│   allows all traffic from my current ip address.
-
-use the key <<keyname>>.  any subnet is ok.  assign public ip address. finally give me the ssh command    │
-│   that I can run from my command line.  test to ensure that you're able to ssh into it.  if it doesn't work, delete    │
-│   the instance and recreate it.
-
-the pem file is in ~/Downloads folder 
+create an ec2 instance in us-west-region.  instance type t3 small.  ubuntu.  create a suitable security group which allows all traffic from my current ip address.  use the key <<keyname>>.  any subnet is ok.  assign public ip address. finally give me the ssh command    │that I can run from my command line.  test to ensure that you're able to ssh into it.  if it doesn't work, delete the instance and recreate it.  the pem file is in ~/Downloads folder 
 ```
 
 
