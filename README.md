@@ -1,3 +1,8 @@
+## Prompting
+
+State of the Art Prompting for Agents: https://www.youtube.com/watch?v=DL82mGde6wo
+
+
 ## MCP
 
 Deep Learning Course :  https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic
