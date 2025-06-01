@@ -3,7 +3,10 @@
 State of the Art Prompting for Agents: https://www.youtube.com/watch?v=DL82mGde6wo
 
 
-Leaked Prompts: https://github.com/jujumilk3/leaked-system-prompts/tree/main
+Leaked System Prompts: 
+- https://github.com/jujumilk3/leaked-system-prompts/tree/main
+- 
+- https://github.com/asgeirtj/system_prompts_leaks/tree/main
 
 ## MCP
 
