@@ -1,6 +1,8 @@
 ## Sources
 https://www.youtube.com/watch?v=6eBSHbLKuN0
 
+https://www.anthropic.com/engineering/claude-code-best-practices
+
 
 ## Create EC2 instance
 
