@@ -56,3 +56,7 @@ I see top menu items with "+" expanding to provide navigation to multiple pages 
 ## Sub Agents
 
 https://www.reddit.com/r/ClaudeAI/comments/1jffi94/claude_codes_main_and_subagent_prompts/
+
+### Internal
+
+https://kirshatrov.com/posts/claude-code-internals
