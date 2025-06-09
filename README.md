@@ -28,3 +28,6 @@ https://github.com/aws-samples/browser-control-with-nova-act
 ## Anthropic AI Fluency
 
 https://www.anthropic.com/ai-fluency/introduction-to-ai-fluency
+
+## Coding Agents - OpenHands
+https://github.com/All-Hands-AI/OpenHands
