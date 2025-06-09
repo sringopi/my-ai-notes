@@ -31,3 +31,11 @@ https://www.anthropic.com/ai-fluency/introduction-to-ai-fluency
 
 ## Coding Agents - OpenHands
 https://github.com/All-Hands-AI/OpenHands
+
+## Cline Memory Bank
+
+https://docs.cline.bot/prompting/cline-memory-bank
+
+### Cline Workflows
+
+https://docs.cline.bot/features/slash-commands/workflows
