@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=6eBSHbLKuN0
 
 https://www.anthropic.com/engineering/claude-code-best-practices
 
+https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf
+
 
 ## Create EC2 instance
 
