@@ -3,6 +3,10 @@
 State of the Art Prompting for Agents: https://www.youtube.com/watch?v=DL82mGde6wo
 
 
+## Specification driven development
+
+https://cremich.cloud/specification-driven-development-with-amazon-q-developer
+
 Leaked System Prompts: 
 - https://github.com/jujumilk3/leaked-system-prompts/tree/main
 
