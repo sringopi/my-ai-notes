@@ -1,0 +1,9 @@
+1/ Go to Bedrock within AWS console. 
+
+2/ Generate API Key - long term.  ENSURE TO ENABLE THIRD PARTY MODELS.
+
+3/ In the terminal - set 
+  %  export AWS_BEARER_TOKEN_BEDROCK=
+  %  export CLAUDE_CODE_USE_BEDROCK=1
+
+4/  % claude
